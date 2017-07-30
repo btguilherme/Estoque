@@ -1,0 +1,12 @@
+.container{
+	width: 400px;
+}
+.page-header{
+	text-align: center;
+	background-color: #d1d1e0;
+	padding: 10px;
+	border-radius: 5px;
+}
+p.msg{
+	color: red;
+}
